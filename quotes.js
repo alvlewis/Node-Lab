@@ -1,0 +1,2 @@
+
+module.exports = ['But those things which proceed out of the mouth come forth from the heart... (Matt 15:18)', '...for whatsoever a man soweth, that shall he also reap (Galatians 6:7)', 'I am made all things to all men, so that I might by all means save some (I Cor 9:22)', 'Before Abraham was, I am (John8:58)', 'Who is he that saith, and it cometh to pass, when the Lord commandeth it not? (Lamentations3:37)' ]
